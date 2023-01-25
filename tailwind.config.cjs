@@ -41,3 +41,5 @@ module.exports = {
   },
   plugins: [],
 };
+
+const colors = require('tailwindcss/colors')
